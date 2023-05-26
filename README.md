@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Winlako
+- 👋 Hi, I’m @Dominic
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on HTML and CSS
